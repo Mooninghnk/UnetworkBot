@@ -10,6 +10,6 @@
 ```npm install request-promise node-telegram-bot-api @google-cloud/translate --save ```
 
 
-```CoinMarketCap: https://coinmarketcap.com/api/```
+```CoinMarketCap: ``` https://coinmarketcap.com/api/
 
-```Goolge: https://console.developers.google.com/```
+```Goolge: ``` https://console.developers.google.com/
