@@ -1,5 +1,5 @@
 # UnetworkBot
-# Instruction 
+# Instructions
 
 ``` git clone https://github.com/Mooninghnk/UnetworkBot.git ```
 
