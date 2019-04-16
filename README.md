@@ -12,4 +12,4 @@
 
 ```CoinMarketCap: ``` https://coinmarketcap.com/api/
 
-```Goolge: ``` https://console.developers.google.com/
+```Google: ``` https://console.developers.google.com/
